@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Untitled](untitled.md)
+* [FAQ](faq.md)
+* [Change Log](untitled.md)
 
