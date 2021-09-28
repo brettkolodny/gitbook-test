@@ -1,4 +1,5 @@
 # Initial page
+This is the chinese page
 
 ## Getting Super Powers
 
